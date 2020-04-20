@@ -1,0 +1,10 @@
+---
+title: "my first markdown"
+author: "realniga420"
+date: "20/04/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+print("##this is a markdown file ")
+```
